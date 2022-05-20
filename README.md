@@ -1,5 +1,4 @@
-### Hello, Rackel Rodrigues<br>
-Pleased to meet you. 💙
+### Hello, Rackel Rodrigues Prazer 💙
 
 ##
 
