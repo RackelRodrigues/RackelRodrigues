@@ -1,20 +1,37 @@
-<h3 align="center"> Hello, Rackel Rodrigues Pleasure💙</h3>
+# Rackel Rodrigues — Front End Developer 💻
 
-##
-<div  align="center">
+Prazer, Eu sou a **Rackel Rodrigues**, uma apaixonada por tecnologia e livros, direto da Paraíba! Tenho 24 anos e atualmente estudo na UEPB, onde mergulho fundo no mundo do desenvolvimento Front End. Amo criar coisas bonitas e funcionais na web, sempre buscando aprender e crescer como dev. Quando não estou codando, você me encontra com um livro nas mãos, explorando novos mundos. Vamos juntos nessa jornada de aprendizado e criatividade! 💙✨
+
+ ##
+
+### 💻 Linguagens e Tecnologias
+
+
+<img title="HTML" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img title="CSS3" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img title="JavaScript" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img title="TypeScript" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img title="Next.js" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img title="Figma" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img title="React" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img title="Tailwind CSS" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img title="Python" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img title="Git" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+
 <a href="https://github.com/RackelRodrigues/github-readme-stats">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RackelRodrigues&show_icons=true&theme=github_dark" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RackelRodrigues&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
- <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rock-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rock-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rock-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rock-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+
+
  
  ##
-<div align="center">
+
 <a href="https://www.linkedin.com/in/rackel-rodrigues-708b57212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/rackel.rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
- </div>
+ 
