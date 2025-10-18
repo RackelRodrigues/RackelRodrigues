@@ -17,6 +17,8 @@ Prazer, Eu sou a **Rackel Rodrigues**, uma apaixonada por tecnologia e livros, d
 <img title="Tailwind CSS" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img title="Python" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img title="Git" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img title="Cypress" width="30px" align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+          
 
 <br/>
 <br/>
