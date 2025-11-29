@@ -11,29 +11,21 @@ Prazer, Eu sou a **Rackel Rodrigues**, uma apaixonada por tecnologia e livros, d
 <img title="CSS3" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img title="JavaScript" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img title="TypeScript" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img title="React" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img title="Next.js" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img title="Figma" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img title="React" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img title="Sass" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 <img title="Tailwind CSS" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img title="Python" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img title="Git" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img title="Cypress" width="30px" align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
           
 
+
 <br/>
-<br/>
-
-### 📊 Estatísticas
-
-
-<a href="https://github.com/RackelRodrigues/github-readme-stats">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RackelRodrigues&show_icons=true&theme=github_dark" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RackelRodrigues&layout=compact&langs_count=7&theme=github_dark"/>
-
-
  
  ##
 
-<a href="https://www.linkedin.com/in/rackel-rodrigues-708b57212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rackel-rodrigues-708b57212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/rackel.rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
  
