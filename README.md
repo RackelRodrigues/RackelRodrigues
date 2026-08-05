@@ -1,6 +1,6 @@
 # Rackel Rodrigues — Front End Developer 💻
 
-Prazer, Eu sou a **Rackel Rodrigues**, uma apaixonada por tecnologia e livros, direto da Paraíba! Tenho 24 anos e atualmente estudo na UEPB, onde mergulho fundo no mundo do desenvolvimento Front End. Amo criar coisas bonitas e funcionais na web, sempre buscando aprender e crescer como dev. Quando não estou codando, você me encontra com um livro nas mãos, explorando novos mundos. Vamos juntos nessa jornada de aprendizado e criatividade! 💙✨
+Prazer, Eu sou a **Rackel Rodrigues**, uma apaixonada por tecnologia e livros, direto da Paraíba! Tenho 25 anos e atualmente estudo na UEPB, onde mergulho fundo no mundo do desenvolvimento Front End. Amo criar coisas bonitas e funcionais na web, sempre buscando aprender e crescer como dev. Quando não estou codando, você me encontra com um livro nas mãos, explorando novos mundos. Vamos juntos nessa jornada de aprendizado e criatividade! 💙✨
 
  ##
 
